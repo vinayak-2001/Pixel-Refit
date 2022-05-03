@@ -1,0 +1,32 @@
+{
+  "name": "Pixel Refit",
+  "short_name": "PixelRefit",
+  "start_url": "index.html",
+  "orientation": "portrait-primary",
+
+  "icons": [
+    {
+      "src": "/images/icons/android-chrome-192x192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/images/icons/android-chrome-512x512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/images/icons/favicon-16x16.png",
+      "sizes": "16x16",
+      "type": "image/png"
+    },
+    {
+      "src": "/images/icons/favicon-32x32.png",
+      "sizes": "32x32",
+      "type": "image/png"
+    }
+  ],
+  "theme_color": "#02dac5",
+  "background_color": "#fdfdfd",
+  "display": "standalone"
+}
