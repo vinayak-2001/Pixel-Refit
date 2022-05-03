@@ -5,6 +5,7 @@
   box-sizing: border-box;
   font-family: "poppins", sans-serif;
 }
+
 body {
   min-height: 100vh;
   width: 100%;
@@ -13,6 +14,7 @@ body {
   justify-content: center;
   background: #17202a;
 }
+
 .main {
   height: 100vh;
   width: 100vw;
@@ -35,7 +37,7 @@ body {
 }
 .Tools ul li {
   width: 100%;
-  height: 80px;
+  height: 100px;
   display: flex;
   align-items: center;
   justify-content: center;
@@ -46,6 +48,7 @@ body {
 
 .Tools ul .active_option {
   background: rgba(255, 255, 255, 0.1);
+  /* color: #02dac5; */
 }
 .Tools ul .active_option p {
   opacity: 1;
@@ -53,6 +56,10 @@ body {
 }
 .Tools ul .active_option i {
   color: #02dac5;
+}
+
+.Tools ul .active_option svg {
+  fill: #02dac5;
 }
 
 .Tools ul li i {
@@ -76,8 +83,12 @@ body {
 .Tools ul li p {
   transition: color 1s ease-in-out;
   opacity: 0;
-  font-size: 10px;
+  font-size: 1.8vmin;
   color: rgba(255, 255, 255, 0.5);
+}
+
+li:hover svg {
+  fill: #02dac5;
 }
 
 /*content part */
@@ -96,13 +107,14 @@ body {
   top: 10px;
   right: 20px;
   letter-spacing: 3px;
-  font-family: "Staatliches", cursive;
+  font-family: "Fredoka one", cursive;
+  font-size: 5vmin;
   color: rgba(255, 255, 255, 0.5);
 }
 
 .choose_image {
   width: 70%;
-  height: 200px;
+  height: 400px;
   position: absolute;
   top: 50%;
   left: 50%;
@@ -117,10 +129,14 @@ body {
   width: 100%;
   cursor: pointer;
   border: 1px dashed rgba(255, 255, 255, 0.5);
+  border-radius: 1vmin;
 }
 p#hint {
   color: rgba(255, 255, 255, 0.5);
-  font-size: 1.2em;
+  font-size: 3.5vmin;
+  letter-spacing: 1px;
+  margin-top: 1vmin;
+  font-family: Georgia, "Times New Roman", Times, serif;
 }
 .upload_img_box i {
   font-size: 2.2em;
@@ -164,6 +180,7 @@ p#hint {
 
 /*options part */
 .options {
+  z-index: 10;
   position: absolute;
   transform: translateY(80px);
   bottom: 0;
@@ -181,7 +198,7 @@ p#hint {
   align-items: center;
   width: 100%;
   height: 100%;
-  justify-content: space-between;
+  justify-content: space-evenly;
 }
 .option {
   display: none;
@@ -222,28 +239,27 @@ input[type="range"] {
   margin-right: 10px;
 }
 
-@media screen and (max-width : 786px) {
-  .main{
-    flex-direction:  column-reverse;
+@media screen and (max-width: 786px) {
+  .main {
+    flex-direction: column-reverse;
   }
-  .content{
+  .content {
     height: 90vh;
   }
-  .Tools{
+  .Tools {
     width: 100%;
     height: 80px;
   }
-  .Tools ul{
+  .Tools ul {
     display: flex;
   }
-  .options{
-    bottom : -80px;
+  .options {
+    bottom: -80px;
   }
-  .content #logo{
+  .content #logo {
     top: 30px;
   }
   p#hint {
     font-size: 0.8em;
   }
 }
-
