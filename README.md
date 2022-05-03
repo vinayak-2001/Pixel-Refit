@@ -1,6 +1,6 @@
 # Pixel-Refit
 
-Use and here : https://pixel-refit.netlify.app/
+Use and Install here : https://pixel-refit.netlify.app/
 
 - A Photo Editor with cool features.
 - A Responsive Progressive Web App (PWA)
@@ -13,19 +13,19 @@ Use and here : https://pixel-refit.netlify.app/
 
 ## Examplanary Image :
 
-![RealImage](screenshots\realImage.png)
+![RealImage](screenshots/realImage.png)
 
 ## Brightness Feature :
 
-![BrightnessFeature](screenshots\brightnessFeature.png)
+![BrightnessFeature](screenshots/brightnessFeature.png)
 
 ## Blur Feature :
 
-![BlurFeature](screenshots\blurFeature.png)
+![BlurFeature](screenshots/blurFeature.png)
 
 ## GrayScale Feature :
 
-![GrayScaleFeature](screenshots\GrayScaleFeature.png)
+![GrayScaleFeature](screenshots/GrayScaleFeature.png)
 
 ## Hue-Rotate Feature :
 
@@ -33,8 +33,8 @@ Use and here : https://pixel-refit.netlify.app/
 
 ## Saturation Feature :
 
-![HueRotateFeature](screenshots\HueRotateFeature.png)
+![HueRotateFeature](screenshots/HueRotateFeature.png)
 
 ## Export to your Device :
 
-![ExportToDevice](screenshots\exportToDevice.png)
+![ExportToDevice](screenshots/exportToDevice.png)
