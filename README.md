@@ -11,7 +11,7 @@ Use and Install here : https://pixel-refit.netlify.app/
 
 ![LoadingWidow](screenshots/loadingWindow.png)
 
-## Examplanary Image :
+## Sample Image :
 
 ![RealImage](screenshots/realImage.png)
 
