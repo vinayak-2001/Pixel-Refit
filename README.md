@@ -9,7 +9,7 @@ Use and here : https://pixel-refit.netlify.app/
 
 ## Loading Window :
 
-![LoadingWidow](screenshots\loadingWindow.png)
+![LoadingWidow](screenshots/loadingWindow.png)
 
 ## Examplanary Image :
 
