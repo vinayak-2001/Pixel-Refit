@@ -33,7 +33,7 @@ Use and Install here : https://pixel-refit.netlify.app/
 
 ## Saturation Feature :
 
-![HueRotateFeature](screenshots/saturationFeature.png)
+![SaturationFeature](screenshots/saturationFeature.png)
 
 ## Export to your Device :
 
@@ -41,7 +41,7 @@ Use and Install here : https://pixel-refit.netlify.app/
 
 ## Loading Window (Mobile):
 
-![LoadingWindow](screenshots/loadingWindow_mobile.jpg)
+![LoadingWindow_Mobile](screenshots/loadingWindow_mobile.jpg)
 
 ## Sample Image (Mobile):
 
