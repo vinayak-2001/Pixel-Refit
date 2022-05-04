@@ -25,11 +25,11 @@ Use and Install here : https://pixel-refit.netlify.app/
 
 ## GrayScale Feature :
 
-![GrayScaleFeature](screenshots/grayscaleFeature.png)
+![GrayScaleFeature](screenshots/grayScaleFeature.png)
 
 ## Hue-Rotate Feature :
 
-![HueRotateFeature](screenshots/huerotateFeature.png)
+![HueRotateFeature](screenshots/hueRotateFeature.png)
 
 ## Saturation Feature :
 
