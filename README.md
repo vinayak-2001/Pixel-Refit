@@ -2,14 +2,14 @@
 
 Use and Install here : https://pixel-refit.netlify.app/
 
-- A Photo Editor with cool features.
-- A Responsive Progressive Web App (PWA)
-- Installable and can be used in mobile natively
-- Features : grayscale, brightness, blur, saturation, hue rotate, export, etc.
+- A **Photo Editor** with cool features.
+- A **Responsive Progressive Web App (PWA)**
+- **Installable and can be used in mobile natively**
+- Features : **grayscale, brightness, blur, saturation, hue rotate, export, etc.**
 
-## Loading Window :
+## Loading Window (Desktop):
 
-![LoadingWidow](screenshots/loadingWindow.png)
+![LoadingWindow](screenshots/loadingWindow.png)
 
 ## Sample Image :
 
@@ -38,3 +38,15 @@ Use and Install here : https://pixel-refit.netlify.app/
 ## Export to your Device :
 
 ![ExportToDevice](screenshots/exportToDevice.png)
+
+## Loading Window (Mobile):
+
+![LoadingWindow](screenshots/loadingWindow_mobile.jpg)
+
+## Sample Image (Mobile):
+
+![SampleImageMobile](screenshots/sampleImage.jpg)
+
+## Installable (Mobile):
+
+![Installable](screenshots/installable.jpg)
